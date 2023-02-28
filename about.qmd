@@ -2,8 +2,14 @@
 title: "About"
 ---
 
-About this site
+Hello, my name is SHAOHAN CHANG.
 
-```{r}
-1 + 1
-```
+This is my personal website. I am a graduate student at the University of Toronto. from the statistics department. I have a strong passion for data analysis and finding insights from complex datasets. My research interests include machine learning, Bayesian statistics, and causal inference. During my time at the University of Toronto, I have worked on several projects that have given me hands-on experience in these areas and have helped me develop valuable skills in data preprocessing, model building, and presentation of results.In addition to my academic pursuits, I also enjoy staying active and exploring new technology. In my free time, you can find me playing basketball, hiking, or tinkering with the latest gadgets. I am always eager to learn and grow, both personally and professionally, and I believe that my strong work ethic, positive attitude, and analytically skills make me a valuable asset to any team.
+I have a great passion for photography. I have always been fascinated by the way a camera can capture a moment in time and preserve it forever. Photography allows me to express my creativity and tell a story through images. Whether it's capturing landscapes, portraits, or everyday life, I find joy in every shot I take.I am constantly learning and improving my skills, experimenting with different techniques and styles. I enjoy exploring new places and finding unique perspectives to capture. Photography has given me the opportunity to see the world from a different point of view and has allowed me to create memories that will last a lifetime. In my free time, I enjoy sharing my work with others and hearing their feedback. I am always looking for new inspiration and opportunities to grow as a photographer. Whether I'm taking photos for personal projects or for clients, I approach each project with a sense of purpose and a passion for capturing the beauty of the world.
+
+My background in statistics has given me a unique perspective on photography, as I am able to approach my projects with a data-driven mindset. I am skilled in post-processing techniques and have a keen eye for detail, which allows me to bring my photos to life and make them truly stand out.
+
+Aside from my love for photography and statistics, I am also deeply invested in personal growth and development. I believe that we are never done learning, and I am constantly seeking new opportunities to challenge myself and expand my knowledge. Whether it's through reading books, attending workshops, or collaborating with other photographers, I am dedicated to improving my craft and sharing my knowledge with others.
+
+In my future, I hope to continue pursuing both my academic and personal interests. I am eager to see where my passion for data analysis and photography will take me, and I am excited to continue making a positive impact in both fields. Thank you for visiting my personal website, and I hope you enjoy learning more about my work and my journey.
+

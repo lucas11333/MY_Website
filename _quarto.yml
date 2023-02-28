@@ -8,7 +8,7 @@ website:
       - href: index.qmd
         text: Home
       - about.qmd
-      - href: CV.qmd
+      - href: SHAOHAN CV.pdf
         text: CV
 
 format:
